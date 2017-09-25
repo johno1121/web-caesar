@@ -31,8 +31,8 @@ form = """<!DOCTYPE html>
             <input type="text" id="rotate_by" name="rot" value="0" />
             <p class="error"></p>
             </div>
-            <input type="submit" />
             <textarea name="text" type="text">{0}</textarea>
+            <input type="submit" />
 
             </form>
             </body>
